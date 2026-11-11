@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Aegis Security Scanner
-        uses: madiyarmoldakhmet-ai/aegis-action@v1
+        uses: ./
         with:
           target_path: '.'
           fail_on_critical: 'true'
