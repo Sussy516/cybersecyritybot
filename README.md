@@ -11,4 +11,4 @@ pip install -r requirements.txt\npython main.py
 ## 📝 License
 MIT License — see [LICENSE](LICENSE) for details.
 ---
-Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai)
+Built with ❤️ by [Madiyar](https://github.com/madiyarmoldakhmet-ai) and by holy goated Nurmogg 
